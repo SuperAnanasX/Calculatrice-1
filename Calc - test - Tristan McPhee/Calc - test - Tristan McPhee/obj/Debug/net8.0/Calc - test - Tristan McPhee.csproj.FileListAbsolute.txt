@@ -1,0 +1,14 @@
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\bin\Debug\net8.0\Calc - test - Tristan McPhee.exe
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\bin\Debug\net8.0\Calc - test - Tristan McPhee.deps.json
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\bin\Debug\net8.0\Calc - test - Tristan McPhee.runtimeconfig.json
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\bin\Debug\net8.0\Calc - test - Tristan McPhee.dll
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\bin\Debug\net8.0\Calc - test - Tristan McPhee.pdb
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.AssemblyInfoInputs.cache
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.AssemblyInfo.cs
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.csproj.CoreCompileInputs.cache
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.dll
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\refint\Calc - test - Tristan McPhee.dll
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.pdb
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\Calc - test - Tristan McPhee.genruntimeconfig.cache
+C:\Users\tristan.mcphee\source\repos\Calc - test - Tristan McPhee\Calc - test - Tristan McPhee\obj\Debug\net8.0\ref\Calc - test - Tristan McPhee.dll
